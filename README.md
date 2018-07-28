@@ -3,8 +3,8 @@ Mathematical formulas given in formula.txt file are evaluvated and the answers a
 
  C++ console programme details
 
-➢ Load the text file with mathematical formulas.
-➢ Read a single formula at a time.
+'\n'➢ Load the text file with mathematical formulas.
+'\n'➢ Read a single formula at a time.
 ➢ Calculate the result of the formulas according to the BODMAS order
 convention (Bracket, OR operation, Division, Multiplication, Addition, and
 Subtraction).
